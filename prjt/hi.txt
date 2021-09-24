@@ -1,5 +1,12 @@
 hihihi 수정또함
 
+<<<<<<< HEAD
  aa
  
  내가 수정
+=======
+hi bb
+ aa
+
+다시 또 추가
+>>>>>>> branch 'main' of https://github.com/uookiboogie/gitTest.git
